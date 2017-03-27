@@ -19,7 +19,7 @@ Código Condição de pagamento
 1 À vista em dinheiro ou cheque, recebe 10% de desconto
 2 À vista no cartão de crédito, recebe 15% de desconto
 3 Em duas vezes, preço normal de etiqueta sem juros
-4 Em duas vezes, preço normal de etiqueta mais juros de 10%
+4 Em tres vezes, preço normal de etiqueta mais juros de 10%
 12) Escreva um algoritmo que leia o número de identificação, as 3 notas obtidas por um aluno nas
 3 verificações e a média dos exercícios que fazem parte da avaliação, e calcule a média de
 aproveitamento, usando a fórmula:
